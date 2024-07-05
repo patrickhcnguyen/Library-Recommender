@@ -1,0 +1,1 @@
+# after doing some EDA on the dataCleaningNotebook, we can write a script to automate the data cleaning
